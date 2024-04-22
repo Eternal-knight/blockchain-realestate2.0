@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.4",
+    "ethers": "^5.7.2",
+    "express": "^4.18.3",
+    "hardhat": "^2.18.1",
+    "keccak": "^3.0.4"
+  }
+}
